@@ -24,5 +24,5 @@ git clone https://github.com/Frederickyzw/spot-welding
   <img src="https://github.com/Frederickyzw/spot-welding/blob/main/yolo%20train/Result%202.png?raw=true" width="400"/>
 </p>
 
-<br>Frederick 
+<br>Created by : Frederick 
 <br>LinkedIn : https://www.linkedin.com/in/frederick-31b861178/
