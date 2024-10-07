@@ -2,7 +2,7 @@
 ## ANN Application for Casting Product Inspection (Mechanical Engineering)
 ### Creating new model using own dataset and YOLOv3 Model
 
-<img src=".Breadcrumbsspot-welding/cast_def_0_42.jpeg"></img>
+<img src="[.Breadcrumbsspot-welding/cast_def_0_42.jpeg](https://github.com/Frederickyzw/spot-welding/blob/main/cast_def_0_42.jpeg?raw=true)"></img>
 
 ### Brief Description
 Proyek ini dibuat untuk menganalisis data yang terdapat pada Dataset yang berjudul E-Commerce Public yang memiliki rentang antara tahun 2016 sampai 2018. Adapun aspek yang dianalisis adalah sebagai berikut :
