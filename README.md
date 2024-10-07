@@ -19,3 +19,7 @@ git clone https://github.com/Frederickyzw/spot-welding
 ```
 
 ### Result 
+<p align="center">
+  <img src="[path-to-your-image1.png](https://github.com/Frederickyzw/spot-welding/blob/main/yolo%20train/Result%201.png?raw=true)" width="400"/>
+  <img src="[path-to-your-image2.png](https://github.com/Frederickyzw/spot-welding/blob/main/yolo%20train/Result%201.png?raw=true)" width="400"/>
+</p>
