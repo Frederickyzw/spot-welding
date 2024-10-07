@@ -17,3 +17,5 @@ This implementation serves as a practical application of machine learning in man
 ```
 git clone https://github.com/Frederickyzw/spot-welding
 ```
+
+### Result 
