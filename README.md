@@ -5,10 +5,13 @@
 <img src="https://github.com/Frederickyzw/spot-welding/blob/main/cast_def_0_42.jpeg?raw=true"></img>
 
 ### Brief Description
-Proyek ini dibuat untuk menganalisis data yang terdapat pada Dataset yang berjudul E-Commerce Public yang memiliki rentang antara tahun 2016 sampai 2018. Adapun aspek yang dianalisis adalah sebagai berikut :
-- 10 produk yang paling banyak dibeli customer dan 10 produk termahal.
-- Pengaruh lama waktu pengiriman rata-rata terhadap review score yang diberikan.
-- Total pengeluaran customer untuk setiap bulannya.
+This project focuses on applying Artificial Neural Networks (ANN) to optimize manufacturing processes, specifically in quality engineering. It explores the use of ANN in the inspection of casting products, identifying defects and ensuring product quality.
+Key Features:
+
+- ANN for Casting Product Inspection: Analyzes casting defects using a custom dataset of mechanical engineering components.
+- Custom Dataset and YOLOv3 Model: Incorporates the YOLOv3 model for object detection, enhanced with a custom dataset to improve accuracy in detecting defects.
+
+This implementation serves as a practical application of machine learning in manufacturing, aimed at improving product inspection and quality control.
 
 ### Clone Repository
 ```
