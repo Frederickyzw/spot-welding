@@ -11,7 +11,7 @@ Key Features:
 - ANN for Casting Product Inspection: Analyzes casting defects using a custom dataset of mechanical engineering components.
 - Custom Dataset and YOLOv3 Model: Incorporates the YOLOv3 model for object detection, enhanced with a custom dataset to improve accuracy in detecting defects.
 
-This implementation serves as a practical application of machine learning in manufacturing, aimed at improving product inspection and quality control.
+This implementation serves as a practical application of Machine Learning in Manufacturing, aimed at improving product inspection and quality control.
 
 ### Clone Repository
 ```
@@ -23,3 +23,7 @@ git clone https://github.com/Frederickyzw/spot-welding
   <img src="https://github.com/Frederickyzw/spot-welding/blob/main/yolo%20train/Result%201.png?raw=true" width="400"/>
   <img src="https://github.com/Frederickyzw/spot-welding/blob/main/yolo%20train/Result%202.png?raw=true" width="400"/>
 </p>
+
+
+Frederick
+LinkedIn : https://www.linkedin.com/in/frederick-31b861178/
